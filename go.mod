@@ -10,6 +10,7 @@ require (
 	github.com/go-ini/ini v1.57.0
 	github.com/go-sql-driver/mysql v1.5.0
 	github.com/jinzhu/gorm v1.9.14
+	github.com/prometheus/common v0.10.0
 )
 
 replace github.com/Unknwon/com => github.com/unknwon/com v0.0.0-20190804042917-757f69c95f3e
